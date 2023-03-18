@@ -13,7 +13,6 @@ class Node:
 
 class Stack:
     """Класс для стека"""
-    stack = []
 
     def __init__(self):
         """Конструктор класса Stack"""
