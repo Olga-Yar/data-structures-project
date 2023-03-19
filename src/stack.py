@@ -39,3 +39,5 @@ class Stack:
         self.top = node.next_node
         return node
 
+    def __str__(self):
+        return self.__dict__
